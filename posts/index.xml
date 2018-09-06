@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cowrie SSH and Telnet Honeypot</title>
+    <link>https://www.cowrie.org/posts/</link>
+    <description>Recent content in Posts on Cowrie SSH and Telnet Honeypot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Sep 2018 10:05:16 +0400</lastBuildDate>
+    
+	<atom:link href="https://www.cowrie.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cowrie Honeypot!</title>
+      <link>https://www.cowrie.org/posts/my-first-post/</link>
+      <pubDate>Sun, 02 Sep 2018 10:05:16 +0400</pubDate>
+      
+      <guid>https://www.cowrie.org/posts/my-first-post/</guid>
+      <description>Welcome</description>
+    </item>
+    
+  </channel>
+</rss>
