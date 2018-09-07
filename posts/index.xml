@@ -6,18 +6,41 @@
     <description>Recent content in Posts on Cowrie SSH and Telnet Honeypot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Sep 2018 10:05:16 +0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.cowrie.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cowrie Honeypot!</title>
-      <link>https://www.cowrie.org/posts/my-first-post/</link>
-      <pubDate>Sun, 02 Sep 2018 10:05:16 +0400</pubDate>
+      <title>Cowrie Honeypot</title>
+      <link>https://www.cowrie.org/posts/2015-07-05-cowrie/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.cowrie.org/posts/my-first-post/</guid>
-      <description>Welcome</description>
+      <guid>https://www.cowrie.org/posts/2015-07-05-cowrie/</guid>
+      <description>Since summer 2014 I&amp;rsquo;ve been working on extensions and contributions to the well known Kippo honeypot developed by desaster.
+I noticed some SSH attacks against my systems were not logged in full detail and I started to work on additional logging, from there I&amp;rsquo;ve added &amp;lsquo;ssh exec commands&amp;rsquo; support, SFTP support, SCP support, direct-tcpip (proxying) support and many other features.
+To distinguish this from the original software, I have now renamed the system to &amp;quot;Cowrie&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>Interesting Perl scripts through stdin</title>
+      <link>https://www.cowrie.org/posts/2015-02-19-perl-stdin/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cowrie.org/posts/2015-02-19-perl-stdin/</guid>
+      <description>This came in recently in one of my honeypots, same IP address that attempted to download SSH bruteforcing scripts before, but this latest attempt shows a new method of operations. In the log below you can see they attempt to run &amp;lsquo;perl&amp;rsquo;. Kippo accepts the perl command, but we don&amp;rsquo;t see what&amp;rsquo;s executed.
+{% highlight text %} 2015-02-17 08:13:56+0000 [kippo.core.ssh.HoneyPotSSHFactory] New connection: AAA.BBB.CCC.DDD:40346 (127.0.0.1:2222) [session: 491] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.BBB.CCC.DDD] KEXINIT: client supported key exchange: [&amp;lsquo;diffie-hellman-group14-sha1&amp;rsquo;, &amp;lsquo;diffie-hellman-group-exchange-sha1&amp;rsquo;, &amp;lsquo;diffie-hellman -group1-sha1&amp;rsquo;] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.</description>
+    </item>
+    
+    <item>
+      <title>Kippo Modifications</title>
+      <link>https://www.cowrie.org/posts/2015-02-12-kippo-modifications/</link>
+      <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cowrie.org/posts/2015-02-12-kippo-modifications/</guid>
+      <description>Since summer last year I&amp;rsquo;ve been working on extensions and contributions to the well known Kippo honeypot developed by desaster.
+I noticed some SSH attacks against my systems were not logged in complete detail and I started to work on additional logging. All features below are incorporated in my kippo repository on github.
+New Features SFTP support Kippo now supports the SFTP protocol to upload and download files. Uploaded files are placed into the &amp;lsquo;dl/&amp;rsquo; directory, like files that were downloaded by &amp;lsquo;wget&amp;rsquo;.</description>
     </item>
     
   </channel>
