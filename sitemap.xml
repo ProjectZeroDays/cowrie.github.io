@@ -17,13 +17,6 @@
   </url>
   
   <url>
-    <loc>https://www.cowrie.org/posts/2015-02-12-kippo-modifications/</loc>
-    <lastmod>2015-02-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cowrie.org/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>

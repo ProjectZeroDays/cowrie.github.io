@@ -138,24 +138,7 @@ To distinguish this from the original software, I have now renamed the system to
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       This came in recently in one of my honeypots, same IP address that attempted to download SSH bruteforcing scripts before, but this latest attempt shows a new method of operations. In the log below you can see they attempt to run &lsquo;perl&rsquo;. Kippo accepts the perl command, but we don&rsquo;t see what&rsquo;s executed.
-{% highlight text %} 2015-02-17 08:13:56+0000 [kippo.core.ssh.HoneyPotSSHFactory] New connection: AAA.BBB.CCC.DDD:40346 (127.0.0.1:2222) [session: 491] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.BBB.CCC.DDD] KEXINIT: client supported key exchange: [&lsquo;diffie-hellman-group14-sha1&rsquo;, &lsquo;diffie-hellman-group-exchange-sha1&rsquo;, &lsquo;diffie-hellman -group1-sha1&rsquo;] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.
-    </div>
-  </div>
-</div>
-</div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="/posts/2015-02-12-kippo-modifications/" class="link black dim">
-        Kippo Modifications
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Since summer last year I&rsquo;ve been working on extensions and contributions to the well known Kippo honeypot developed by desaster.
-I noticed some SSH attacks against my systems were not logged in complete detail and I started to work on additional logging. All features below are incorporated in my kippo repository on github.
-New Features SFTP support Kippo now supports the SFTP protocol to upload and download files. Uploaded files are placed into the &lsquo;dl/&rsquo; directory, like files that were downloaded by &lsquo;wget&rsquo;.
+2015-02-17 08:13:56+0000 [kippo.core.ssh.HoneyPotSSHFactory] New connection: AAA.BBB.CCC.DDD:40346 (127.0.0.1:2222) [session: 491] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.BBB.CCC.DDD] KEXINIT: client supported key exchange: [&#39;diffie-hellman-group14-sha1&#39;, &#39;diffie-hellman-group-exchange-sha1&#39;, &#39;diffie-hellman -group1-sha1&#39;] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.
     </div>
   </div>
 </div>
