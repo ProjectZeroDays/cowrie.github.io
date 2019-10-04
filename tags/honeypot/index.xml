@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Honeypot on Cowrie SSH and Telnet Honeypot</title>
+    <title>honeypot on Cowrie</title>
     <link>https://www.cowrie.org/tags/honeypot/</link>
-    <description>Recent content in Honeypot on Cowrie SSH and Telnet Honeypot</description>
+    <description>Recent content in honeypot on Cowrie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>

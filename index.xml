@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cowrie SSH and Telnet Honeypot</title>
+    <title>Cowrie SSH and Telnet Honeypot on Cowrie</title>
     <link>https://www.cowrie.org/</link>
-    <description>Recent content on Cowrie SSH and Telnet Honeypot</description>
+    <description>Recent content in Cowrie SSH and Telnet Honeypot on Cowrie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 16:05:10 +0100</lastBuildDate>
     
 	<atom:link href="https://www.cowrie.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cowrie: Designing SSH and Telnet Proxies (and Dabbling with Qemu)</title>
+      <link>https://www.cowrie.org/posts/cowrie-proxy/</link>
+      <pubDate>Wed, 28 Aug 2019 16:05:10 +0100</pubDate>
+      
+      <guid>https://www.cowrie.org/posts/cowrie-proxy/</guid>
+      <description>These past months I&amp;rsquo;ve been working in the Google Summer of Code program with The Honeynet Project, in a project called Cowrie, about which I&amp;rsquo;ve talked in a previous post. Cowrie, in turn, is maintained by Michel Oosterhof, with whom I really had the pleasure of working these past months.
+Whew, that was a mouthful of links, but I&amp;rsquo;ve got my references done with for now&amp;hellip; I have talked about the experience in the official report, so this post will focus a bit more on the technical challenges I faced and my main takeaways, as well as serving to showcase the new features that have been added.</description>
+    </item>
     
     <item>
       <title>Cowrie Honeypot</title>

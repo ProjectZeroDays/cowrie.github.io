@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cowrie SSH and Telnet Honeypot</title>
+    <title>Tags on Cowrie</title>
     <link>https://www.cowrie.org/tags/</link>
-    <description>Recent content in Tags on Cowrie SSH and Telnet Honeypot</description>
+    <description>Recent content in Tags on Cowrie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Cowrie</title>
+      <title>cowrie</title>
       <link>https://www.cowrie.org/tags/cowrie/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Honeypot</title>
+      <title>honeypot</title>
       <link>https://www.cowrie.org/tags/honeypot/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Kippo</title>
+      <title>kippo</title>
       <link>https://www.cowrie.org/tags/kippo/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       
@@ -39,20 +39,20 @@
     </item>
     
     <item>
-      <title>Perl</title>
-      <link>https://www.cowrie.org/tags/perl/</link>
-      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.cowrie.org/tags/perl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ssh</title>
+      <title>ssh</title>
       <link>https://www.cowrie.org/tags/ssh/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://www.cowrie.org/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://www.cowrie.org/tags/perl/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cowrie.org/tags/perl/</guid>
       <description></description>
     </item>
     

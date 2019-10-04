@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Perl on Cowrie SSH and Telnet Honeypot</title>
+    <title>perl on Cowrie</title>
     <link>https://www.cowrie.org/tags/perl/</link>
-    <description>Recent content in Perl on Cowrie SSH and Telnet Honeypot</description>
+    <description>Recent content in perl on Cowrie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
