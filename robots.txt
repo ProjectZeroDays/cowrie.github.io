@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 User-agent: *
+=======
+User-agent: *
+# robotstxt.org - if ENV production variable is false robots will be disallowed.
+
+  Disallow:
+
+>>>>>>> 206fa1eec079cf74d9b9e33906f8c3ba171514cf
