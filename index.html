@@ -31,17 +31,17 @@
     
     
     <meta property="og:title" content="Cowrie SSH and Telnet Honeypot" />
-<meta property="og:description" content="The last theme you&#39;ll ever need. Maybe." />
+<meta property="og:description" content="Cowrie SSH and Telnet Honeypot" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.cowrie.org/" />
 
 <meta property="og:updated_time" content="2019-08-28T16:05:10+01:00" />
 <meta itemprop="name" content="Cowrie SSH and Telnet Honeypot">
-<meta itemprop="description" content="The last theme you&#39;ll ever need. Maybe.">
+<meta itemprop="description" content="Cowrie SSH and Telnet Honeypot">
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Cowrie SSH and Telnet Honeypot"/>
-<meta name="twitter:description" content="The last theme you&#39;ll ever need. Maybe."/>
+<meta name="twitter:description" content="Cowrie SSH and Telnet Honeypot"/>
 
   </head>
 
@@ -213,25 +213,41 @@ To distinguish this from the original software, I have now renamed the system to
 
           </div>
         
+          <div class="relative w-100 mb4">
+            
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+    <div class="flex flex-column flex-row-ns">
+      
+          
+        
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <a href="/posts/2015-02-19-perl-stdin/" class="db grow">
+            <img src="https://www.cowrie.org/images/camel-bg.jpg" class="img" alt="image from Interesting Perl scripts through stdin">
+          </a>
+        </div>
+      
+      <div class="blah w-100 w-60-ns pl3-ns">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/posts/2015-02-19-perl-stdin/" class="color-inherit dim link">
+            Interesting Perl scripts through stdin
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          This came in recently in one of my honeypots, same IP address that attempted to download SSH bruteforcing scripts before, but this latest attempt shows a new method of operations. In the log below you can see they attempt to run &lsquo;perl&rsquo;. Kippo accepts the perl command, but we don&rsquo;t see what&rsquo;s executed.
+2015-02-17 08:13:56+0000 [kippo.core.ssh.HoneyPotSSHFactory] New connection: AAA.BBB.CCC.DDD:40346 (127.0.0.1:2222) [session: 491] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.BBB.CCC.DDD] KEXINIT: client supported key exchange: [&#39;diffie-hellman-group14-sha1&#39;, &#39;diffie-hellman-group-exchange-sha1&#39;, &#39;diffie-hellman -group1-sha1&#39;] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.
+        </div>
+          <a href="/posts/2015-02-19-perl-stdin/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
       </section>
 
-      
-      <section class="w-100">
-        <h1 class="f3">More</h1>
-        
-        
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="/posts/2015-02-19-perl-stdin/" class="link black dim">
-              Interesting Perl scripts through stdin
-            </a>
-          </h2>
-        
-
-        
-        
-          <a href="/posts/" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">All Posts</a>
-        
-        </section>
       
 
       </div>
