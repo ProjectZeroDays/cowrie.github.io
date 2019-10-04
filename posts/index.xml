@@ -13,10 +13,10 @@
     
     <item>
       <title>Cowrie: Designing SSH and Telnet Proxies (and Dabbling with Qemu)</title>
-      <link>https://www.cowrie.org/posts/cowrie-proxy/</link>
+      <link>https://www.cowrie.org/posts/cowrie-gsoc-2019/</link>
       <pubDate>Wed, 28 Aug 2019 16:05:10 +0100</pubDate>
       
-      <guid>https://www.cowrie.org/posts/cowrie-proxy/</guid>
+      <guid>https://www.cowrie.org/posts/cowrie-gsoc-2019/</guid>
       <description>These past months I&amp;rsquo;ve been working in the Google Summer of Code program with The Honeynet Project, in a project called Cowrie, about which I&amp;rsquo;ve talked in a previous post. Cowrie, in turn, is maintained by Michel Oosterhof, with whom I really had the pleasure of working these past months.
 Whew, that was a mouthful of links, but I&amp;rsquo;ve got my references done with for now&amp;hellip; I have talked about the experience in the official report, so this post will focus a bit more on the technical challenges I faced and my main takeaways, as well as serving to showcase the new features that have been added.</description>
     </item>
