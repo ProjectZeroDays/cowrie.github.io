@@ -42,5 +42,14 @@ To distinguish this from the original software, I have now renamed the system to
 2015-02-17 08:13:56+0000 [kippo.core.ssh.HoneyPotSSHFactory] New connection: AAA.BBB.CCC.DDD:40346 (127.0.0.1:2222) [session: 491] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.BBB.CCC.DDD] KEXINIT: client supported key exchange: [&amp;#39;diffie-hellman-group14-sha1&amp;#39;, &amp;#39;diffie-hellman-group-exchange-sha1&amp;#39;, &amp;#39;diffie-hellman -group1-sha1&amp;#39;] 2015-02-17 08:13:57+0000 [HoneyPotTransport,491,AAA.</description>
     </item>
     
+    <item>
+      <title>Cowrie Slack</title>
+      <link>https://www.cowrie.org/slack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cowrie.org/slack/</guid>
+      <description>Join the Cowrie Slack here</description>
+    </item>
+    
   </channel>
 </rss>
