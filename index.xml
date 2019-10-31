@@ -48,7 +48,8 @@ To distinguish this from the original software, I have now renamed the system to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.cowrie.org/contact/</guid>
-      <description> Your Name Email Address An email address is required.  Message   </description>
+      <description>For questions around commercial support of Cowrie or custom feature requests, please contact us:
+Your Name Email Address An email address is required.  Message   </description>
     </item>
     
     <item>
@@ -66,7 +67,19 @@ To distinguish this from the original software, I have now renamed the system to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.cowrie.org/download/</guid>
-      <description>Download the latest Cowrie release at https://github.com/cowrie/cowrie/releases. Or look at the work in progress at https://github.com/cowrie/cowrie.</description>
+      <description>Download the latest Cowrie release at https://github.com/cowrie/cowrie/releases.
+Or look at the work in progress at https://github.com/cowrie/cowrie.</description>
+    </item>
+    
+    <item>
+      <title>Mailing List</title>
+      <link>https://www.cowrie.org/mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cowrie.org/mail/</guid>
+      <description>If you&amp;rsquo;d like to join our mailing list, please sign up here! Your data will not be shared with third parties.
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; } /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */ 
+Subscribe * indicates required Email Address *   First Name   Last Name           (function($) {window.</description>
     </item>
     
   </channel>
